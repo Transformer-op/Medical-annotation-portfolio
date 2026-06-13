@@ -6,8 +6,7 @@ task types: Named Entity Recognition (NER) and Text Classification,
 applied to real anonymised clinical text.
 
 ## Annotator background
-Favour Nwatu — Bachelor of Nursing Science, ESUT College
-of Medicine. Clinical experience across psychiatric, community health,
+Favour Nwatu — BNSc — ESUT College of Medicine (expected 2026) and NMCN licensure examination passed. Clinical experience across psychiatric, community health,
 and teaching hospital settings. This background informs the clinical
 accuracy and reasoning behind every label in this dataset.
 
