@@ -1,0 +1,44 @@
+Sentence_id,Sentence,Entity_text,Entity_label,Notes
+1,"The patient is a 2-month-old female with a 9-day history of illness. Per mom's report, the illness started 9 days ago with a dry cough. ",Dry cough,Symptom,Reported by the mother 
+2, the patient was given Xopenex 2 puffs every 4 to 6 hours for home regimen,Xopenex,Medication,Treatment was started
+2,She was given Xopenex 2 puffs every 4 to 6 hours ,2 puffs every 4 to 6 hours,Dosage,Dose and frequency
+3,A chest x-ray was obtained and was noted to be normal. ,Chest x-ray,Test,Absence of findings documented
+3,A chest x-ray was obtained and was noted to be normal. ,Normal,Test Result,Test result was normal
+4,The patient presented to the emergency room last evening with approximately 7- to 8-day history of abdominal pain,Abdominal pain,Symptom,Reported by patient
+5,"She had a CT scan at that time and she was told it was ""normal.""",CT scan,Test ,No abnormality detected
+5,"She had a CT scan at that time and she was told it was ""normal.""",Normal,Test Result,Test result was normal
+6,She was given oral antibiotics of Cipro and Flagyl.,Cipro and Flagyl,Medication,treatment was started
+7,The patient presented with symptoms of chest pain,Chest,Body part,Anatomical site of reported symptom
+7,The patient presented with symptoms of chest pain,Chest pain,Symptom,Patient-reported; not yet confirmed as diagnosis
+8,"This 5-year-old male presents to Children's Hospital Emergency Department by the mother with ""have asthma.""",Asthma,Diagnosis,Confirmed diagnosis reported by mother on presentation
+9,He has had some vomiting and abdominal pain,Vomiting ,Symptom,Patient-reported symptom; gastrointestinal system
+9,He has had some vomiting and abdominal pain,Abdominal pain,Symptom,Patient-reported; location not further specified
+10,The lung perfusion scan  demonstrated 47% flow to the left lung and 53% flow to the right lung,Right lung,Body part,Anatomical site referenced in perfusion result
+10,The lung perfusion scan  demonstrated 47% flow to the left lung and 53% flow to the right lung,Left lung,Body part,Anatomical site referenced in perfusion result
+10,The lung perfusion scan  demonstrated 47% flow to the left lung and 53% flow to the right lung,Lung perfusion scan,Test ,Lung scan
+10,The lung perfusion scan  demonstrated 47% flow to the left lung and 53% flow to the right lung,47% flow to the left lung,Test Result,Quantified perfusion result; left lung
+10,The lung perfusion scan  demonstrated 47% flow to the left lung and 53% flow to the right lung,53% flow to the right lung,Test result,Quantified perfusion result; right lung
+11,This is a 27-year-old female who presents with a couple of days history of some dental pain.,Dental pain,Symptom,Patient-reported; oro-facial region
+12,She has had increasing swelling and pain to the left lower mandible area today.,Swelling ,Symptom,Patient-reported; mandible region
+13,The patient complains of neck pain.,Neck pain,symptom,Patient-reported complaint
+13,The patient complains of neck pain.,Neck ,Body part,Body part associated with reported neck pain
+14,The patient is diabetic and has a prior history of coronary artery disease.,Diabetic,Diagnosis,Confirmed chronic diagnosis
+14,The patient is diabetic and has a prior history of coronary artery disease.,Coronary artery disease,Diagnosis,Confirmed prior diagnosis
+15,The patient presents today stating that his chest pain started yesterday evening,Chest pain,Symptom,Symptom with onset noted as previous evening
+15,The patient presents today stating that his chest pain started yesterday evening,Chest,Body part,Anatomical location of reported symptom
+16, He describes the pain as a sharp and heavy pain which radiates to his neck & left arm.,Left arm,Body part,Radiation site of pain
+16, He describes the pain as a sharp and heavy pain which radiates to his neck & left arm.,Neck ,Body part,Radiation site of pain
+17,The patient took 3 nitroglycerin tablets sublingually over the past 1 hour,Nitroglycerin,Medication,Sublingual nitrate; used for angina/chest pain relief
+18,The patient is a 45-year-old male complaining of abdominal pain. ,Abdominal pain,Symptom,Patient-reported
+18,The patient is a 45-year-old male complaining of abdominal pain. ,Abdomen,Body part,Anatomical region of reported pain
+19,"Ms. ABCD is a 69-year-old lady, who was admitted to the hospital with chest pain and respiratory insufficiency.",Respiratory Insufficency,Diagnosis,Presenting diagnosis on admission
+19,"Ms. ABCD is a 69-year-old lady, who was admitted to the hospital with chest pain and respiratory insufficiency.",Chest pain,Symptom,Pain Presenting symptom
+20,She has chronic lung disease with bronchospastic angina.,Chronic lung disease,Diagnosis,Long-standing respiratory diagnosis
+21,we have started her on Coreg 6.25 mg b.i.d.,Coreg,Medication,Brand name for carvedilol; beta-blocker medication
+21,we have started her on Coreg 6.25 mg b.i.d.,6.25mg B.I.D,Dosage,B.I.D means twice daily
+22,"Patient developed nausea and right upper quadrant pain, which apparently wrapped around toward his right side and back. ",Right upper quadrant pain,Symptom,This location suggests hepatobilliary cause
+22,"Patient developed nausea and right upper quadrant pain, which apparently wrapped around toward his right side and back. ",Nausea ,Symptom,Patient reported gastrointestinal symptom
+23,"Cultures taken from the wound on 06/25/2008, were reported positive for methicillin-sensitive Staphylococcus aureus (MSSA).",Positive,Test result,Culture result confirming infection
+24,Patient started cyclosporine and prednisone on 03/30/10.,Cyclosporine ,Medication,Immunosuppressant medication
+24,Patient started cyclosporine and prednisone on 03/30/10.,Prednisone,Medication,A corticosteriod
+25,She was admitted to the hospital from 07/11/10 to 07/14/10 with acute kidney injury.,Acute kidney injury,Diagnosis,Confirmed diagnosis
