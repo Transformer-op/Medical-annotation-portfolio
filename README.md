@@ -16,8 +16,8 @@ All text sourced from MTSamples.com — a publicly available collection
 of anonymised medical transcription samples.
 
 ## Files in this project
-- ner-dataset.csv — 30 clinical sentences with entity-level labels
-- classification-dataset.csv — 30 sentences with category and urgency labels
+- ner-dataset.csv — 25 clinical sentences with entity-level labels
+- classification-dataset.csv — 25 sentences with category and urgency labels
 - annotation-guidelines.md — full labelling rules and definitions
 - label-decisions.md — documented reasoning on edge cases
 
